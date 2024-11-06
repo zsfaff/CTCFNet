@@ -60,3 +60,10 @@ inputs
     |   ├── ...
 ```
 For test datasets, the same structure as the above.
+
+### Dataset
+UBT and TBT datastes is provided for scientific study:
+
+### Pretrained weight
+Swin Transformer: 
+CTCFNet:
