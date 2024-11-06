@@ -14,7 +14,9 @@ Building type information indicates the functional properties of buildings and p
 ## Data
 We created two building typ classification datasets, urban building type dataset (UBT) dataset and Town building type (TBT) dataset, from GF-2 satellite images (of 1m spatial resolution) covering nine areas in Fujian Province, China. The building type classification system includes five building types, complex buildings, factury building, apartment-type buildings, high-density residential buildings and detached buildings.
 <p align="center">
-  <img src="imges/Stady area.jpg" width="400"/>
+  <img src="imges/Stady area.jpg" width="800"/>
+</p>
+<p align="center">
   <img src="imges/UBTDatst_area.jpg" width="400"/>
   <img src="imges/TBTDataset_area.jpg" width="400"/>
 </p>
