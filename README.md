@@ -1,6 +1,6 @@
 # CTCFNet
 
-Official Pytorch Code base for "Building Type Classification Using CNN-Transformer Cross-Encoder Adaptive Learning From Very-High-Resolution Satellite Images"
+Building Type Classification Using CNN-Transformer Cross-Encoder Adaptive Learning From Very-High-Resolution Satellite Images
 [Project](https://github.com/zsfaff/CTCFNet)
 
 ## Introduction
@@ -63,9 +63,9 @@ For test datasets, the same structure as the above.
 
 ### Dataset
 UBT and TBT datastes is provided for scientific study
-UBTDataset：https://pan.baidu.com/s/13qKjrkHblbrJ6D0mnggNSQ, code=ADC6
-TBTDataset：https://pan.baidu.com/s/19x2pYQop-wQWA_ikliim4Q, ADC6
+UBTDataset\TBTDatset：https://pan.baidu.com/s/1GPYUKK27KGdlv-KeAXdyrg code: iet5 
+
 
 ### Pretrained weight
-Swin Transformer: 
-CTCFNet:
+Swin Transformer: https://pan.baidu.com/s/1USmcG1Gp3lLsyiCu9SxfEA code: k7rc 
+CTCFNet: https://pan.baidu.com/s/17il7rZMJKRdcnF9UYGQWzQ code: vhpw 
